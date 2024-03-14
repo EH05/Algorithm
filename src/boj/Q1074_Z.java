@@ -20,7 +20,7 @@ public class Q1074_Z {
 
         findAnswer(N, R, C);
 
-        System.out.println(answer);
+        System.out.println(answer); // git test
 
 
     }
