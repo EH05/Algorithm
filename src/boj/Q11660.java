@@ -22,6 +22,14 @@ public class Q11660 {
             }
         }
 
+//        System.out.println();
+//        for(int r = 0; r<=N; r++){
+//            for(int c = 0; c<=N; c++){
+//                System.out.print(dp[r][c]+" ");
+//            }
+//            System.out.println();
+//        }
+
         for (int i = 0; i < M; i++) {
             st = new StringTokenizer(br.readLine());
             int x1 = Integer.parseInt(st.nextToken());
